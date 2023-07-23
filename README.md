@@ -1,6 +1,6 @@
 # Three.js Vite React Project - Computer with iFrame Render
 
-![Computer with iFrame](computer_with_iframe.png)
+[3D Computer with iFrame](gonchihernandez-computer.web.app/)
 
 Welcome to our Three.js Vite React project that brings to life a realistic 3D computer with an iFrame embedded on its screen! 🖥️💻 Immerse yourself in the world of 3D graphics and explore the seamless integration of web content in a captivating visual experience.
 
@@ -11,8 +11,8 @@ Follow these simple steps to get the project up and running on your local machin
 1. **Clone the Repository:** Start by cloning this repository to your local environment.
 
 ```bash
-git clone https://github.com/your-username/threejs-vite-react-computer.git
-cd threejs-vite-react-computer
+git clone https://github.com/gonchihernandez/computer.git
+cd computer
 ```
 
 2. **Install Dependencies:** Install the necessary dependencies using npm or yarn.
@@ -38,14 +38,14 @@ yarn dev
 The project is structured as follows:
 
 ```
-threejs-vite-react-computer/
+computer/
 ├── public/
 │   └── index.html
 ├── src/
 │   ├── components/
-│   │   └──  Experience.ks
-│   ├── App.js
-│   ├── index.js
+│   │   └──  Experience.jsx
+│   ├── index.html
+│   ├── index.jsx
 │   └── styles.css
 ├── .gitignore
 ├── package.json
